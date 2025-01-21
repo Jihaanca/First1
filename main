@@ -16,6 +16,6 @@ def calculator():
         else:
             print("Division by zero is not allowed.")
     else:
-        print("Invalid operation.")
+        print("Invalid operation. Try again")
 
 calculator()
